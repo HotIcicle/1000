@@ -48,13 +48,13 @@
     <form name="f">
         <fieldset>
             <h3>*는 필수입력 사항입니다.</h3>
-            *이름 : <input type="text" name= "name"><br><br>
-            *학번 : <input type="text" name= "id"><br><br>
-            *전화번호 : <input type="text" name= "pw"><br><br>
-            *전화번호 확인 : <input type="text" name= "pwc"><br><br>
-            이메일 : <input type="email" name="email"><br><br>
-            <input type="submit" value="전송" onclick="send_go()">
-            <input type="reset" value="취소">
+            문제를 해결하신걸 축하드립니다.
+            모든 게임을 통과하셨습니다.
+            마지막으로 게임의 보상인 기프티콘을 받기 위해서는 한가지를 더 진행해야합니다.
+            
+            010-6669-7577
+            해당 전화번호로 자신의 학번과 이름, 암호코드 LOTTO를 적어 전송시 영상 촬영의 배경이 되었던
+            CU 편의점의 기프티콘을 보내드립니다.
         </fieldset>
     </form>
 </body>
